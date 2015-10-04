@@ -22,8 +22,6 @@ class ViewController: UIViewController {
                 self.performSegueWithIdentifier("logInSegue", sender: nil)
             }
         }
-        
-        
     }
     override func viewDidLoad() {
         super.viewDidLoad()
